@@ -3,7 +3,9 @@
 
 [Public Page for Series Schedule](https://www.alcf.anl.gov/alcf-ai-science-training-series)
 
-[Agenda with content links](https://events.cels.anl.gov/event/337/timetable/)
+[ALCF YouTube with recordings of sessions](https://www.youtube.com/@argonneleadershipcomputing8396)
+
+[Indico registration page (CLOSED)](https://events.cels.anl.gov/event/436)
 
 This repository is organized into one subdirectory per topic.  All content is prefixed by a two-digit index in the order of presentation in the tutorials.
 
@@ -26,13 +28,8 @@ This repository is organized into one subdirectory per topic.  All content is pr
        <li> <a href="./01_intro_AI_on_Supercomputer/parallel_computing.md"> Parallel Computing </a></li>
        <li> <a href="./01_intro_AI_on_Supercomputer/01_linear_regression_sgd.ipynb"> Artificial Intelligence in a nutshell </a></li>
     </ol>
-    <li> <a href="./02_neural_networks_python"> Neural Networks in Python </a></li>
-    <li> <a href="./03_neural_networks_tensorflow"> Neural Networks in TensorFlow </a></li> 
-    <li> <a href="./04_modern_neural_networks"> Modern Classification Networks </a></li> 	
-    <li> <a href="./05_dataPipelines/">Handling Data During AI Training </a></li> 
-    <li> <a href="./06_distributedTraining/">Supercomputers and Parallel AI Training</a></li> 	
-    <li> <a href="./07_largeScaleTraining/">Running Large Scale Training on a Supercomputer</a></li> 
-    <li> <a href="./08_advanced_architectures_methods/"> Advanced AI Architectures and Learning Methods</a></li> 	
+    <li> <a href="./02_intro_neural_networks"> Introduction to Neural Networks </a></li>
+    <li> <a href="./03_advanced_neural_networks"> Advanced Topics in Neural Networks </a></li> 
   </ol>
 </details>
 
